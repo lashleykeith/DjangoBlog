@@ -1,5 +1,5 @@
 # DjangoBlog
-Blog that tracks users actions. 
+Blog that tracks users actions. You can create sign up, log in and create post.  You can also follow over peoples post and see the news feed of the post.
 
 ## To run
 go to the home directory where `manage.py` is and run `python manage.py runserver`.  If you will need to migrate the files.
