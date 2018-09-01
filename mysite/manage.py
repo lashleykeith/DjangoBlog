@@ -13,6 +13,4 @@ if __name__ == "__main__":
             "forget to activate a virtual environment?"
         ) from exc
     execute_from_command_line(sys.argv)
-
-
-# Designing the blog data scheme
+# 2 creating an admin site for models
