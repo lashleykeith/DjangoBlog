@@ -13,4 +13,4 @@ if __name__ == "__main__":
             "forget to activate a virtual environment?"
         ) from exc
     execute_from_command_line(sys.argv)
-# 2 creating an admin site for models
+# working with Query Set Managers
