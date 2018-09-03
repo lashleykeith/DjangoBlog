@@ -13,4 +13,5 @@ if __name__ == "__main__":
             "forget to activate a virtual environment?"
         ) from exc
     execute_from_command_line(sys.argv)
-# working with Query Set Managers
+
+# 4 building list and detail views
